@@ -9,7 +9,7 @@ Original Code Credit goes to "theonlytruegod". Visit his profile here: https://g
 <h1><b>PLease Note:<b/> This will only work if you have TamperMonkey<h1/>
   
   
-<p>Thank you for using this Quizlet®  TamperMonkey Hack
+<h6><p>Thank you for using this Quizlet®  TamperMonkey Hack<h6/>
   
   Link to TamperMonkey: <a href="https://www.tampermonkey.net/" target="_blank">TamperMonkey.net</a></h2> <p/>
   
