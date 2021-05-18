@@ -15,5 +15,5 @@ Original Code Credit goes to "theonlytruegod". Visit his profile here: https://g
   
   
   <a href="https://github.com/gutc0derium18">
-     <img alt="My Profile" src="https://avatars.githubusercontent.com/u/82983276?v=4" width=30" height="30">   gutcoderuim18
+     <img alt="My Profile" src="https://avatars.githubusercontent.com/u/82983276?v=4" width=40" height="40">  
   
